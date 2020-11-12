@@ -42,7 +42,7 @@ namespace WP_2020_01_HW01_3A713153
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
-            MessageBox.Show("上吧!孩子!", "相信號碼吧!!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            MessageBox.Show("上吧!孩子!", "相信號碼吧!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
         }
     }
 }
