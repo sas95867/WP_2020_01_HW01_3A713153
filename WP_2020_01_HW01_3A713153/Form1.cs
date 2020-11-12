@@ -46,7 +46,7 @@ namespace WP_2020_01_HW01_3A713153
         }
     }
 }
-public static class MD5Extensions
+/*public static class MD5Extensions
     {
         public static string ToMD5(this string str)
         {
@@ -67,4 +67,4 @@ public static class MD5Extensions
                 return md5;
             }
         }
-    }
+    }*/
